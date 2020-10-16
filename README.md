@@ -8,7 +8,7 @@
 
 El objetivo de la prueba es crear un listado de personajes de Rick and Morty y un detalle del personaje.
 
-[API DOCS](https://www.google.com)
+[API DOCS](https://rickandmortyapi.com/documentation)
 
 ## Requerimientos
 
@@ -34,3 +34,4 @@ Para enviarnos la prueba, crea un repo en Github/BitBucket junto con un README e
 Para cualquier duda sobre la prueba o para hacernos la llegar
 
 pverdugo@deplace.es
+javilopez@deplace.es
