@@ -29,9 +29,6 @@ El objetivo de la prueba es crear un listado de personajes de Rick and Morty y u
 
 ## Entrega
 
-Para enviarnos la prueba, crea un repo en Github/BitBucket junto con un README explicandonos que has hecho y cualquier duda que tengas
+Para enviarnos la prueba, crea un repo en Github/BitBucket junto con un README explicandonos que has hecho y cualquier duda que tengas.
 
-Para cualquier duda sobre la prueba o para hacernos la llegar
-
-pverdugo@deplace.es
-javilopez@deplace.es
+Para cualquier duda sobre la prueba o para hacernosla llegar: cristinalopez@deplace.es
